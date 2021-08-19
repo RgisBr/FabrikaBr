@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <Seo title="FabrikaBr" />
     <h2>Bem vindo!</h2>
-    <p>FabrikaBr é uma plataforma dedicada ao desenvolvimento de produtos e serviços tecnológicos.</p>
+    <p>FabrikaBr is an embryonic platform formed by professionals and students of Computer Engineering. Our goal is to develop technological products and services that can improve people's lives..</p>
     <p>Fornecemos soluções para o desenvolvimento de protótipos baseados em IA e IoT, automação de processos, monitoramento e relatórios gerenciais.
        Nossa metodologia de trabalho descentralizado, permitem que nossos processos sejam executados por uma equipe multidisciplinar remota com confiança e escalabilidade.  </p>
     
