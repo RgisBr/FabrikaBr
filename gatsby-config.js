@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `FABRIKABR`,
     description: `FabrikaBr collective of students and Computer Engineering professionals.`,
-    author: `@gatsbyjs`,
+    author: `@fabrikabr`,
     siteUrl: `https://fabrikabr.io/`,
   },
   plugins: [
