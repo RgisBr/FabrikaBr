@@ -14,15 +14,17 @@ const IndexPage = () => (
 We believe in community economic models and decentralized governance. Our applications under development are based on process improvement, enabling greater savings in resources and consequently labor efficiency. Our work methodology follows a model that values human interaction following the best practices..  </p>
     
     <p>
+      
+      <Link to="/using-typescript/">Blockchain</Link><br />
+      <p>Saiba como a tecnologia Blockchain pode ajudar você.</p>
+      <Link to="/About/">About</Link>
+      <p>Saiba mais sobre nossos produtos.</p>
+  
       <Link to="/page-2/">Roadmap</Link> <br />
       <p>2021- 1Q Design and staff training. </p>
       <p>2021- 2Q Design and staff training. </p> 
       <p>2021- 3Q Design and staff training. </p>
       <p>2021- 4Q Design and staff training. </p>
-      <Link to="/using-typescript/">Blockchain</Link><br />
-      <p>Saiba como a tecnologia Blockchain pode ajudar você.</p>
-      <Link to="/About/">About</Link>
-      <p>Saiba mais sobre nossos produtos.</p>
     </p>
   </Layout>
 )
