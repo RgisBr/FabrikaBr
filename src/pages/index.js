@@ -15,8 +15,10 @@ We believe in community economic models and decentralized governance. Our applic
     
     <p>
       <Link to="/page-2/">Roadmap</Link> <br />
-      <p>2021- 
-  Team design and formation </p>
+      <p>2021- 1Q Design and staff training. </p>
+      <p>2021- 2Q Design and staff training. </p> 
+      <p>2021- 3Q Design and staff training. </p>
+      <p>2021- 4Q Design and staff training. </p>
       <Link to="/using-typescript/">Blockchain</Link><br />
       <p>Saiba como a tecnologia Blockchain pode ajudar você.</p>
       <Link to="/About/">About</Link>
