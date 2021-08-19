@@ -16,15 +16,19 @@ We believe in community economic models and decentralized governance. Our applic
     <p>
       
       <Link to="/using-typescript/">Blockchain</Link><br />
-      <p>Saiba como a tecnologia Blockchain pode ajudar você.</p>
-      <Link to="/About/">About</Link>
-      <p>Saiba mais sobre nossos produtos.</p>
+      <p>Learn about this technology that is changing the world. Discover the world of encryption and smart contracts, know what they are and how airdrops ICO, IDO, IEO and IFO.</p>
+      
   
       <Link to="/page-2/">Roadmap</Link> <br />
-      <p>2021- 1Q Design and staff training. </p>
-      <p>2021- 2Q Design and staff training. </p> 
-      <p>2021- 3Q Design and staff training. </p>
-      <p>2021- 4Q Design and staff training. </p>
+      <p>2021- 1Q/2Q Design and staff training. </p>
+      <p>2021- 3Q/4Q organizational structure, laboratory testing, research, fundraising and development partners projects.. </p> 
+      <p>2022- 1Q/2Q Reviewing working structure and TESTNET the Network BSC. </p>
+      <p>2022- 3Q/4Q lessons learned KB, creating business environment, planning for 1Q/2Q 2022 and 3Q/4Q 2022. </p>
+     
+      <Link to="/About/">About</Link>
+      <p>Learn more about us, help build our story everyone is welcome.</p>
+  
+  
     </p>
   </Layout>
 )
