@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()}, Desenvolvido com Gatsby
+          © {new Date().getFullYear()}, Desenvolvido com Gatsby por
           {` `}
           <a href="https://www.FabrikaBr.io">FabrikaBrIO</a>
         </footer>
