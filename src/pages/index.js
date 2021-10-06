@@ -25,7 +25,7 @@ We believe in community economic models and decentralized governance. Our applic
       <p>2022- 1Q/2Q Reviewing working structure and TESTNET the Network BSC. </p>
       <p>2022- 3Q/4Q lessons learned KB, creating business environment, planning for 1Q/2Q 2022 and 3Q/4Q 2022. </p>
      
-      <Link to="/about/">About</Link>
+      <Link to="/about/">About</Link> <br />
       <p>Learn more about us, help build our story everyone is welcome.</p>
   
   
