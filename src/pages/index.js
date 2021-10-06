@@ -19,7 +19,7 @@ We believe in community economic models and decentralized governance. Our applic
       <p>Learn about this technology that is changing the world. Discover the world of encryption and smart contracts, know what they are and how airdrops ICO, IDO, IEO and IFO.</p>
       
   
-      <Link to="/page-2/">Roadmap</Link> <br />
+      <Link to="/roadmap/">Roadmap</Link> <br />
       <p>2021- 1Q/2Q Design and staff training. </p>
       <p>2021- 3Q/4Q organizational structure, laboratory testing, research, fundraising and development partners projects.. </p> 
       <p>2022- 1Q/2Q Reviewing working structure and TESTNET the Network BSC. </p>
