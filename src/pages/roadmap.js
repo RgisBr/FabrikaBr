@@ -17,8 +17,10 @@ const SecondPage = () => (
 <p>Done</p>
   <p>  2022- 3Q/4Q lessons learned KB, creating business environment, planning for 1Q/2Q 2022 and 3Q/4Q 2022.</p>
  <p> Done </p>
-  
-  
+  <p> 
+  <a class="e-widget no-button" href="https://gleam.io/S3I1I/fabrikabrio-fbkbr-airdrop" rel="nofollow">FabrikaBr.IO FBKBR Airdrop</a>
+<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script>
+  </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 
