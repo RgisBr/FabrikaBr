@@ -7,7 +7,7 @@ import Seo from "../components/seo"
 const SecondPage = () => (
   <Layout>
     <Seo title="Blockchain" />
-    <h1>About </h1>
+    <h1>About Blockchain</h1>
     <p> Blockchain technology is known for being responsible for recording transactions on the Bitcoin network. </p> 
     <p>The premises of this technology are decentralization, data immutability, transparency, and scalability. </p>
    <p>These characteristics have contributed to the adoption of Blockchain by businesses, industries, financial institutions, and governments.  </p>
