@@ -6,15 +6,7 @@ module.exports = {
     siteUrl: `https://fabrikabr.io/`,
   },
   plugins: [
-     {
-    resolve: `gatsby-plugin-nprogress`,
-    options: {
-      // Setting a color is optional.
-      color: `#99cc66`,
-      // Disable the loading spinner.
-      showSpinner: false,
-    },
-  },
+    
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
