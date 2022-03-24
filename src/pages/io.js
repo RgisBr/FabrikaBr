@@ -23,11 +23,10 @@ import Seo from "../components/seo"
        The organizational system is based on Holocracy, this system allows governance to be distributed to teams, enabling employees to prepare proposals or definitions of rules through voting. 
        The proposed business model follows the requirements of the Brazilian Complementary Law (LC) No. 182/2021 The legal framework for startups 
         </p>
-  <p> 
-  <a class="e-widget no-button" href="https://gleam.io/S3I1I/fabrikabrio-fbkbr-airdrop" rel="nofollow">FabrikaBr.IO FBKBR Airdrop</a>
-<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script>
-  </p>
   
+  <p> 
+ <Link to="/contact/">Contact</Link> 
+</p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 
