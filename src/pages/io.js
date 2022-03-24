@@ -34,5 +34,3 @@ import Seo from "../components/seo"
 
 )
 export default SecondPage
-)
-export default 
