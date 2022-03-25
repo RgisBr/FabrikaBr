@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 
  const SecondPage = () => (
   <Layout>
-    <Seo title="About" />
+    <Seo title="Thank you for contacting us!" />
     <h1>About </h1>
     <p>Blockchain technology is known to be responsible for recording transactions on the Bitcoin network. 
        The premises of this technology are decentralization, data immutability, transparency and scalability. 
