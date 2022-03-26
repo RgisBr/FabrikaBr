@@ -13,7 +13,7 @@ const SecondPage = () => (
         <p>One of our analysts will soon answer your questions.</p>
         
            
-        
+        <p>&nbsp</p>
 
 
         <p><Link to="/">Go back to the homepage</Link> </p>
