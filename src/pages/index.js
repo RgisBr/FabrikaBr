@@ -1,12 +1,11 @@
 import * as React from "react"
 import { Link } from "gatsby"
-//***
-import * as React from "react"
+//Introduct
 // Import from a CSS file in your src
 import "../styles/index.css"
 // Import from an installed package
 import "bootstrap/dist/css/bootstrap.min.css"
-//***
+//End
 export default function HomePage() {
   return <div>I'm styled by bootstrap & src/styles/index.css</div>
 }
