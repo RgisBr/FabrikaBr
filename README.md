@@ -18,6 +18,6 @@ transactions on the Bitcoin network. The premises of this technology are decentr
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
-© 2022 GitHub, Inc.
+© 2022 FAbrikaBrIO, Input/Output.
 Terms
 Privacy
