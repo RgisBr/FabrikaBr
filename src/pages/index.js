@@ -32,11 +32,7 @@ We believe in community economic models and decentralized governance. Our applic
      
       <Link to="/about/">About</Link> <br />                                                                                                                         
       <p>Learn more about us, help build our story everyone is welcome.</p>
-      <p> DONATE </p>
-      <p> Polkadot 16CzoFa2ZsyAD3jRGYBWJwaXXH1xwS39UW5XFN63Rfum41yf </p>
-      <p> BSC/ETH 0x3C9E47A08109321D8C58e5E803058A894723F7c0 </p>
-      <p> Relictum Pro nju1CRue58JxPhAXokv2DSvf69KySkHf</p>                                                                                                                     
-      <p> TESTNET the Network BSC(0xB6a0c64eB388623Ce90aa26E50F388283E12CB4E). OK ((Pls! Donate BNB or BUSD TestNet https://testnet.binance.org/faucet-smart </p>
+      
                                                        
        <Link to="https://github.com/FabrikaBr/fabrikabrI0x/blob/636c42215e0733ef1cf3736648d2b573e9ea3222/White%20Paper">White Paper</Link>                                              
        <p> <Link to="/contact/">Contact</Link> <br />  </p>                                                                                                             
